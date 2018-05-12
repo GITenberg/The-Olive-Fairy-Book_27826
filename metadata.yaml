@@ -1,0 +1,47 @@
+_repo: The-Olive-Fairy-Book_27826
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_issued: '2009-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27826'
+  lccn: 07031208
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+tableOfContents: Madschen -- The blue parrot -- Geirlaug the king's daughter -- The
+  story of little King Loc -- 'A long-bow story' -- Jackal or tiger? -- The comb and
+  the collar -- The thanksgiving of the Wazir -- Samba the coward -- Kupti and Imani
+  -- The strange adventures of Little Maia -- Diamond cut diamond -- The green knight
+  -- The five wise words of the guru -- The golden-headed fish -- Dorani -- The satin
+  surgeon -- The billy goat and the king -- The story of Zoulvisia -- Grasp all, lose
+  all -- The fate of the turtle -- The snake prince -- The prince and princess in
+  the forest -- The clever weaver -- The boy who found fear at last -- He wins who
+  waits -- The steel cane -- The punishment of the fairy Gangana -- The silent princess.
+title: The Olive Fairy Book
+url: http://www.gutenberg.org/ebooks/27826
